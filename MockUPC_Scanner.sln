@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockUPC_Scanner", "MockUPC_Scanner\MockUPC_Scanner.csproj", "{243FE821-F2F6-46C9-910C-308074A01066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B715803E-9EBD-4196-B3DC-A1687D8763EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243FE821-F2F6-46C9-910C-308074A01066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243FE821-F2F6-46C9-910C-308074A01066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243FE821-F2F6-46C9-910C-308074A01066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243FE821-F2F6-46C9-910C-308074A01066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B715803E-9EBD-4196-B3DC-A1687D8763EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B715803E-9EBD-4196-B3DC-A1687D8763EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B715803E-9EBD-4196-B3DC-A1687D8763EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B715803E-9EBD-4196-B3DC-A1687D8763EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8822D1B-D7C9-4A45-8F8C-F94C336C80CA}
+	EndGlobalSection
+EndGlobal
